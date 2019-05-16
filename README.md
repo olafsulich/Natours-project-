@@ -1,5 +1,5 @@
 # Description 
-This is the Natours project create with Jonas Schmedtmann course. 
+This is the Natours project created with Jonas Schmedtmann course. 
 
 ## Technologies 
 * HTML5
